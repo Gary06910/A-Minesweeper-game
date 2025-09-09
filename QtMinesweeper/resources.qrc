@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/mine.png</file>
+        <file>icons/mine_triggered.png</file>
+        <file>icons/smile.png</file>
+        <file>icons/dead.png</file>
+        <file>icons/win.png</file>
+        <file>sounds/click.wav</file>
+        <file>sounds/explosion.wav</file>
+        <file>sounds/flag.wav</file>
+        <file>sounds/win.wav</file>
+        <file>icons/flag.png</file>
+    </qresource>
+</RCC>
